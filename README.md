@@ -1,5 +1,5 @@
 This is Levi.
 
-Rustacean.
+HPC && HFT.
 
-Interested in GPGPU, Cryptography, LLM...
+Interested in GPGPU, FPGA, Cryptography, LLM...
