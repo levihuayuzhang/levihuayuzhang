@@ -1,3 +1,1 @@
-This is Levi.
-
-Interested in GPGPU, FPGA, Cryptography, LLM...
+Rustacean, CUDA ninja, C++ wizard&&... Levi.
